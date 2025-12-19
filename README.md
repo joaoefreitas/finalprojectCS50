@@ -32,7 +32,7 @@ My project starts when I realize the difficult to find game maps, all they in yo
 - cur.commit()
   - Save changes made by `cur.execute()`.
 - con.close()
-  - Ends the communicated with database.
+  - Ends the communication with the database.
 #### Os
 - os.path.abspath(os.path.dirname(\_\_file\_\_))
   - Create an absolute way for where the `app.py` is.
